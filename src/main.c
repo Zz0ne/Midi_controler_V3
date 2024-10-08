@@ -8,6 +8,13 @@
 void gpio_setup(void);
 void delay_ms(uint32_t ms);
 
+void vAssertCalled(const char *file, int line)
+{ // You can handle assertion failure here
+    // printf("Assertion failed in %s at line %d\n", file, line);
+    for (;;)
+        ; // Infinite loop to halt the system
+}
+
 void delay_ms(uint32_t ms)
 {
     const uint32_t loop_count =
@@ -33,6 +40,7 @@ int main(void)
     clock_setup();
     gpio_setup();
 
+    xPortStartScheduler();
     while (1)
     {
         // Your application code here

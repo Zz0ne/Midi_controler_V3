@@ -63,12 +63,14 @@
 #define configTIMER_TASK_STACK_DEPTH configMINIMAL_STACK_SIZE
 
 /* Interrupt nesting behaviour configuration. */
-#define configKERNEL_INTERRUPT_PRIORITY
-#define configMAX_SYSCALL_INTERRUPT_PRIORITY
-#define configMAX_API_CALL_INTERRUPT_PRIORITY
+#define configKERNEL_INTERRUPT_PRIORITY       (15 << 4)
+#define configMAX_SYSCALL_INTERRUPT_PRIORITY  (5 << 4)
+#define configMAX_API_CALL_INTERRUPT_PRIORITY configMAX_SYSCALL_INTERRUPT_PRIORITY
 
 /* Define to trap errors during development. */
-#define configASSERT ((x)) if ((x) == 0) vAssertCalled(__FILE__, __LINE__)
+#define configASSERT(x)                                                                            \
+    if ((x) == 0)                                                                                  \
+    vAssertCalled(__FILE__, __LINE__)
 
 /* FreeRTOS MPU specific definitions. */
 #define configINCLUDE_APPLICATION_DEFINED_PRIVILEGED_FUNCTIONS 0
