@@ -40,7 +40,6 @@ int main(void)
     clock_setup();
     gpio_setup();
 
-    xPortStartScheduler();
     while (1)
     {
         // Your application code here

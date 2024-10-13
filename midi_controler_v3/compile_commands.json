@@ -1,0 +1,464 @@
+[
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles/midi_controller_v3.dir/src/main.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/src/main.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/src/main.c",
+  "output": "CMakeFiles/midi_controller_v3.dir/src/main.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/assert.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/assert.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/assert.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/assert.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/dwt.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/dwt.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/dwt.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/dwt.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/nvic.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/nvic.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/nvic.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/nvic.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/scb.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/scb.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/scb.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/scb.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/sync.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/sync.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/sync.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/sync.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/systick.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/systick.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/systick.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/systick.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/cm3/vector.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/vector.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/cm3/vector.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/cm3/vector.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v1_multi.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v1_multi.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v1_multi.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v1_multi.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v2_multi.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v2_multi.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/adc_common_v2_multi.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/adc_common_v2_multi.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/cordic_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/cordic_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/cordic_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/cordic_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crc_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crc_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crc_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crc_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crc_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crc_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crc_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crc_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crs_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crs_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crs_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crs_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crypto_common_f24.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crypto_common_f24.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/crypto_common_f24.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/crypto_common_f24.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dac_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dac_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dcmi_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dcmi_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dcmi_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dcmi_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/desig_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/desig_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/desig_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/desig_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/desig_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/desig_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/desig_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/desig_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma2d_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma2d_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma2d_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma2d_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_csel.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_csel.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_csel.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_csel.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_f24.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_f24.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_f24.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_f24.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_l1f013.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_l1f013.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dma_common_l1f013.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dma_common_l1f013.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dmamux.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dmamux.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dmamux.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dmamux.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dsi_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dsi_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/dsi_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/dsi_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/exti_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/exti_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/exti_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/exti_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/exti_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/exti_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/exti_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/exti_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/fdcan_common.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/fdcan_common.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/fdcan_common.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/fdcan_common.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f01.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f01.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f01.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f01.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f24.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f24.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_f24.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_f24.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_idcache.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_idcache.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_idcache.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_idcache.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_l01.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_l01.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/flash_common_l01.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/flash_common_l01.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/fmc_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/fmc_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/fmc_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/fmc_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/gpio_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/gpio_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/gpio_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/gpio_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/gpio_common_f0234.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/gpio_common_f0234.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/gpio_common_f0234.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/gpio_common_f0234.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/hash_common_f24.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/hash_common_f24.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/hash_common_f24.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/hash_common_f24.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/i2c_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/i2c_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/i2c_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/i2c_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/i2c_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/i2c_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/i2c_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/i2c_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/iwdg_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/iwdg_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/iwdg_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/iwdg_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/lptimer_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/lptimer_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/lptimer_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/lptimer_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/ltdc_common_f47.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/ltdc_common_f47.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/ltdc_common_f47.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/ltdc_common_f47.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/opamp_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/opamp_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/pwr_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/pwr_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/pwr_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/pwr_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/pwr_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/pwr_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/pwr_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/pwr_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/quadspi_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/quadspi_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/quadspi_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/quadspi_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rcc_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rcc_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rcc_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rcc_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rng_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rng_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rng_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rng_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rtc_common_l1f024.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rtc_common_l1f024.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/rtc_common_l1f024.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/rtc_common_l1f024.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v1.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v1.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v1.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v1.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v1_frf.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v1_frf.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v1_frf.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v1_frf.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/spi_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/spi_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/st_usbfs_core.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/st_usbfs_core.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/st_usbfs_core.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/st_usbfs_core.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_f0234.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_f0234.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_f0234.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_f0234.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_f24.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_f24.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/timer_common_f24.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/timer_common_f24.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_all.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_all.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_all.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_all.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_f124.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_f124.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_f124.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_f124.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_fifos.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_fifos.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_fifos.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_fifos.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_v2.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_v2.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/common/usart_common_v2.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/common/usart_common_v2.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/crypto.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/crypto.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/crypto.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/crypto.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/flash.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/flash.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/flash.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/flash.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/i2c.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/i2c.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/i2c.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/i2c.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/pwr.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/pwr.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/pwr.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/pwr.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rcc.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rcc.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rcc.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rcc.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rng.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rng.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rng.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rng.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rtc.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rtc.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/rtc.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/rtc.c.obj"
+},
+{
+  "directory": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3",
+  "command": "/usr/bin/arm-none-eabi-gcc -DSTM32F4 -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/include -I/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -ffreestanding -nostdlib -o CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/vector_chipset.c.obj -c /home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/vector_chipset.c",
+  "file": "/home/nuno/Desktop/Repos/Midi_controler_V3/midi_controler_v3/libs/libopencm3/lib/stm32/f4/vector_chipset.c",
+  "output": "libs/libopencm3/CMakeFiles/opencm3_stm32f4.dir/lib/stm32/f4/vector_chipset.c.obj"
+}
+]
